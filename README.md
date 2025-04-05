@@ -2,7 +2,7 @@
 
 A modern and responsive web app that allows you to pick any color from an uploaded image. It shows the selected color in HEX, RGB, and HSL formats and keeps a history of the colors you pick.
 
-[🚀 Live Demo](https://your-deployment-link.netlify.app)  
+[🚀 Live Demo](https://imagecolorpickerbyhaider.netlify.app/)  
 
 ⭐️ Star the repo on [GitHub](https://github.com/Codewithhaider29/Image-Color-Picker)
 
